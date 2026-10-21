@@ -16,11 +16,11 @@
 
 ## Performans kaydı
 
-| Hafta | Rol | Tamamlanan görev | Süre (saat) | Durum |
-| --- | --- | --- | --- | --- |
-| 6 | Proje yönetimi | Kapsam ve iş planı dokümanı | [__] | Tamamlandı |
-| 6 | Proje yönetimi | 1. sunum hazırlığı | [__] | Tamamlandı |
-| 6 | Test ve dokümantasyon | GitHub reposu ve README | [__] | Tamamlandı |
+| Hafta | Rol | Tamamlanan görev | Durum |
+| --- | --- | --- | --- |
+| 6 | Proje yönetimi | Kapsam ve iş planı dokümanı | Tamamlandı |
+| 6 | Proje yönetimi | 1. sunum hazırlığı | Tamamlandı |
+| 6 | Test ve dokümantasyon | GitHub reposu ve README | Tamamlandı |
 
 ## Karşılaşılan sorunlar
 
