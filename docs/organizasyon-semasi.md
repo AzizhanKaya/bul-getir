@@ -24,8 +24,8 @@ Ekip tek kişiden oluştuğu için proje yürütücüsü beş rolün tamamını 
 
 Her hafta doldurulur, proje sonunda rapora eklenir. Haftalık kayıtlar [haftalık raporlarda](haftalik-raporlar/) tutulur.
 
-| Hafta | Rol | Tamamlanan görev | Durum |
-| --- | --- | --- | --- |
-| 6 | Proje yönetimi | Kapsam ve iş planı dokümanı | Tamamlandı |
-| 6 | Proje yönetimi | 1. sunum hazırlığı | Tamamlandı |
-| 6 | Test ve dokümantasyon | GitHub reposu ve README | Tamamlandı |
+| Hafta | Rol | Yapan | Tamamlanan görev | Durum |
+| --- | --- | --- | --- | --- |
+| 6 | Proje yönetimi | Azizhan Kaya | Kapsam ve iş planı dokümanı | Tamamlandı |
+| 6 | Proje yönetimi | Azizhan Kaya | 1. sunum hazırlığı | Tamamlandı |
+| 6 | Test ve dokümantasyon | Azizhan Kaya | GitHub reposu ve README | Tamamlandı |
