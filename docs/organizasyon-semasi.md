@@ -18,7 +18,7 @@ Ekip tek kişiden oluştuğu için proje yürütücüsü beş rolün tamamını 
 | Mobil geliştirme | Azizhan Kaya | Flutter ekranları, kamera, harita, bildirim entegrasyonu |
 | Veri ve sunucu | Azizhan Kaya | SQLite şeması, Firebase kurulumu, eşitleme mantığı |
 | Test ve dokümantasyon | Azizhan Kaya | Cihaz testleri, GitHub README, final raporu |
-| Halkla ilişkiler | Azizhan Kaya | Medium yazıları |
+| Halkla ilişkiler | Azizhan Kaya | Proje sonunda LinkedIn tanıtım paylaşımı |
 
 ## Performans kayıt şablonu
 

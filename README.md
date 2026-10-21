@@ -30,4 +30,4 @@ Flutter · SQLite (sqflite) · Firebase (Auth, Firestore, Storage, Cloud Messagi
 - [Sunumlar](docs/sunumlar/)
 
 ## Tanıtım
-- Medium: [Medium bağlantısı]
+- LinkedIn: proje sonunda paylaşılacak

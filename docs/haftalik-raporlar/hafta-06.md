@@ -35,4 +35,4 @@
 
 ## Tanıtım
 
-- Medium Yazı 1 (Proje fikri, problem ve kapsam): [Medium bağlantısı]
+- Bu hafta tanıtım paylaşımı yok. Proje, final sürümü hazır olduğunda LinkedIn'de tanıtılacak.

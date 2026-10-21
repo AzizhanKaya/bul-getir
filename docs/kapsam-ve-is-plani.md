@@ -98,7 +98,7 @@ Fotoğraflar Firebase Storage'da tutulur, ilan kaydında yalnızca bağlantısı
 | 7–8 | Altyapı ve ön prototip | Flutter projesi, Firebase kurulumu, SQLite şeması, giriş ekranı, ilan oluşturma | **Vize haftası: ön prototip** |
 | 9–10 | Temel özellikler | Kamera ile fotoğraf, harita ve konum, liste ve arama, SQLite–Firebase eşitleme | İlerleme raporu |
 | 11–12 | Bildirim ve mesajlaşma | Bildirimler, uygulama içi mesaj; zaman kalırsa ek özellikler | İlerleme raporu |
-| 13–14 | Test ve teslim | Cihaz testleri, hata düzeltme, final raporu, demo videosu | **Final sunumu + video + rapor** |
+| 13–14 | Test ve teslim | Cihaz testleri, hata düzeltme, final raporu, demo videosu, LinkedIn tanıtım paylaşımı | **Final sunumu + video + rapor** |
 
 Her hafta ilerleme raporu yazılır ve GitHub'a düzenli commit atılır. Derste sunum sırası yaklaşık üç haftada bir gelir. Vize haftasının kesin tarihi ders takvimine göre güncellenecek.
 
@@ -114,10 +114,11 @@ Her hafta ilerleme raporu yazılır ve GitHub'a düzenli commit atılır. Derste
 
 ## 10. Tanıtım planı (halkla ilişkiler)
 
-Proje yalnızca Medium'da yazı dizisi olarak tanıtılır. Her iki haftada bir yazı yayımlanır ve bağlantısı ilerleme raporuna eklenir.
+Proje, tamamlandığında LinkedIn'de tek bir paylaşımla tanıtılır. Paylaşım 13–14. haftalarda, final sürümü hazır olduğunda yapılır ve bağlantısı ilerleme raporuna ve final raporuna eklenir.
 
-- Yazı 1: Proje fikri, problem ve kapsam
-- Yazı 2: Flutter ile ilk ekranlar ve ön prototip
-- Yazı 3: SQLite ve Firebase eşitleme
-- Yazı 4: Bildirim ve mesajlaşma
-- Yazı 5: Final: test süreci ve öğrenilenler
+Paylaşımda yer alacaklar:
+
+- Projenin amacı ve çözdüğü problem
+- Uygulamadan ekran görüntüleri veya kısa demo videosu
+- Kullanılan teknolojiler (Flutter, SQLite, Firebase)
+- GitHub reposunun bağlantısı
